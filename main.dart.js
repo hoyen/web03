@@ -35884,7 +35884,7 @@ $2:function(a,b){var s=null,r=J.a7(b)
 return M.Ps(s,s,s,s,S.C5(s,s,s,s,T.PP(C.pM,H.b([r.h(b,"color1"),r.h(b,"color2")],t.r8),C.pL,s,C.jG),s,C.ai),s,s,s)}}
 F.rt.prototype={
 L:function(a){var s=null,r=A.oB(s,s,C.j,s,s,s,s,s,s,s,s,s,s,C.n8,s,s,!0,s,s,s,s,s,s)
-return new T.jk(C.cK,s,s,L.YS("Welcome to the best IOT platform",r,F.cz(a,!1).a.a>F.cz(a,!1).a.b?4:2),s)}}
+return new T.jk(C.cK,s,s,L.YS("Welcome to the best IOT platform",r,F.cz(a,!1).a.a>F.cz(a,!1).a.b?4:1),s)}}
 Z.o7.prototype={
 aF:function(){return new Z.zN(P.c_(0,0,0),null,C.n)},
 nv:function(a,b){return this.c.$2(a,b)},
